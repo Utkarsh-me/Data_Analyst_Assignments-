@@ -3,12 +3,16 @@
 **Database Fields:**
 
 order id: Unique identifier for each order.
+
 category: Product category (e.g., Electronics, Furniture).
+
 sales: Total sales amount for the order.
+
 profit: Net profit associated with the order.
+
 region: Geographic region where the sale occurred.
 
-**Libraries Used**
+**Libraries Used**:
 Core Libraries:
 pandas: For data manipulation and analysis.
 numpy: For numerical computations.
@@ -19,7 +23,7 @@ Model training and evaluation (Linear Regression, Random Forest Regressor).
 Preprocessing tools like StandardScaler and train-test split.
 
 
-**Project Overview**
+**Project Overview**:
 This project is divided into two main components:
 1. Descriptive Analysis
 The descriptive analysis focuses on exploring historical data to extract insights about sales and profit trends.
@@ -41,7 +45,7 @@ Mean Absolute Error (MAE)
 Mean Squared Error (MSE)
 R² Score
 
-**Workflow**
+**Workflow**":
 Data Exploration:
 Analyzed dataset for structure, missing values, and summary statistics.
 Visualized sales and profit distributions by category and region.

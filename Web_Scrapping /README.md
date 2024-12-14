@@ -84,5 +84,7 @@ Preview: Displays the first five rows of the data in the console for verificatio
 Laptop
 **Sample Output**
 0  Lenovo Legion Pro 7 Intel Core i9-14900HX 16" ...    2,89,990    3.5
+
 1  Lenovo [Smartchoice LOQ 12th Gen Intel Core i5...      68,990    3.9
+
 2  Lenovo Legion 5 Intel Core i7-14650HX 16" (40....    1,29,690    3.4
